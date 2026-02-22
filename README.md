@@ -17,3 +17,10 @@
 <img width="1054" height="637" alt="image" src="https://github.com/user-attachments/assets/f5d6c379-5c78-4ee8-907f-96c6f7529121" />
 <img width="1229" height="701" alt="image" src="https://github.com/user-attachments/assets/ced33112-77e8-4f04-8fa8-1a5e82e21668" />
 ****<img width="1180" height="728" alt="image" src="https://github.com/user-attachments/assets/b31cf3f1-2a24-44ac-97b0-5230d1c9e620" />
+
+# PROJETANDO SOLUÇÃO DE APRENDIZADO DE MAQUINA
+
+<img width="1224" height="716" alt="image" src="https://github.com/user-attachments/assets/3a8438bb-05b4-4249-bf77-a54223e1042c" />
+
+<img width="1167" height="448" alt="image" src="https://github.com/user-attachments/assets/def7206e-ffbd-4a5b-9159-59977190200d" />
+
